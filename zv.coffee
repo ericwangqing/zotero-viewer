@@ -8,7 +8,7 @@ ELIPSE = '...'
 
 tableHead = "<table id='zv'><thead><tr>
 <th>No.</th><th>Title</th><th>Venue</th><th>CCF Ranking</th><th>SCI IF</th>
-<th>Publish Date</th><th>Authors</th><th>abstract</th></tr>
+<th>Publish Date</th><th>Authors</th></tr>
 </thead><tbody></tbody></table>"
 
 
@@ -32,10 +32,12 @@ renderTable = (bibs, CCF, SCIIF) ->
 		sciif = getSCIIf bib, SCIIF
 		date = getDate bib
 		authors = getAuthors bib
-		abstract = getAbstarct bib
 
-		$('#zv tbody').append("<tr #{classname}><td>#{i+1}</td><td>#{title}</td><td>#{venue}</td><td>#{ccfr}</td><td>#{sciif}</td>
-<td>#{date}</td><td>#{authors}</td><td>#{abstract}</td></tr>")
+		$('#zv tbody').append("<tr #{classname}><td>#{i+1}</td><td id='#{bib.id}'>#{title}</td><td>#{venue}</td><td>#{ccfr}</td><td>#{sciif}</td>
+<td>#{date}</td><td>#{authors}</td></tr>")
+
+		addTooltipWithAbstarct bib
+
 
 toggle = (classname) ->
 	if classname is '' then "class = 'alternate'" else ''
@@ -71,20 +73,18 @@ getDate = (bib) ->
 
 getAuthors = (bib) ->
 	authors = bib.author or []
-	result = ''
+	result = []
 	for author in authors
-		result += "<span class='author'>#{author.given} #{author.family}</span>"
-	result
+		result.push "<span class='author'>#{author.given} #{author.family}</span>"
+	result.join ', '
 
-getAbstarct = (bib) ->
-	return NOT_AVAILABLE if not bib.abstract
-	return "<a href='javascript:void(0)' onclick=popAbstract(#{bib.id});>#{ELIPSE}</a>";
-
-popAbstract = (bibid) ->
-	alert(getAbstractById(bibid));
-
-getAbstractById = (bibid) ->
-	for bib in bibs
-		return bib.abstract if bib.id is bibid
+addTooltipWithAbstarct = (bib) ->
+	if bib.abstract 
+		$ ()->
+			$("#" + bib.id).tooltip({
+				bodyHandler : () ->
+					return bib.abstract
+				extraClass : 'abstract'
+			})
 
 $(loadBibs)
