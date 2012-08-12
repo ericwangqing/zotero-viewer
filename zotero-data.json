@@ -1,0 +1,2450 @@
+[
+	{
+		"id": 2375,
+		"type": "paper-conference",
+		"title": "Towards statistical queries over distributed private user data",
+		"container-title": "Proceedings of the 9th USENIX conference on Networked Systems Design and Implementation",
+		"collection-title": "NSDI",
+		"publisher": "USENIX Association",
+		"publisher-place": "Berkeley, CA, USA",
+		"page": "13–13",
+		"event": "USENIX conference on Networked Systems Design and Implementation",
+		"event-place": "Berkeley, CA, USA",
+		"abstract": "To maintain the privacy of individual users' personal data, a growing number of researchers propose storing user data in client computers or personal data stores in the cloud, and allowing users to tightly control the release of that data. While this allows specific applications to use certain approved user data, it precludes broad statistical analysis of user data. Distributed differential privacy is one approach to enabling this analysis, but previous proposals are not practical in that they scale poorly, or that they require trusted clients. This paper proposes a design that overcomes these limitations. It places tight bounds on the extent to which malicious clients can distort answers, scales well, and tolerates churn among clients. This paper presents a detailed design and analysis, and gives performance results of a complete implementation based on the deployment of over 600 clients.",
+		"URL": "http://dl.acm.org/citation.cfm?id=2228298.2228316",
+		"author": [
+			{
+				"family": "Chen",
+				"given": "Ruichuan"
+			},
+			{
+				"family": "Reznichenko",
+				"given": "Alexey"
+			},
+			{
+				"family": "Francis",
+				"given": "Paul"
+			},
+			{
+				"family": "Gehrke",
+				"given": "Johannes"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2012
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": 2415,
+		"type": "paper-conference",
+		"title": "Covert channels-here to stay?",
+		"container-title": "Computer Assurance, 1994. COMPASS'94 Safety, Reliability, Fault Tolerance, Concurrency and Real Time, Security. Proceedings of the Ninth Annual Conference on",
+		"collection-title": "COMPASS",
+		"page": "235–243",
+		"event": "COMPASS'94",
+		"URL": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=318449",
+		"author": [
+			{
+				"family": "Moskowitz",
+				"given": "I. S."
+			},
+			{
+				"family": "Kang",
+				"given": "M. H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					1994
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2411,
+		"type": "article-journal",
+		"title": "Provably secure steganography",
+		"container-title": "Computers, IEEE Transactions on",
+		"page": "662–676",
+		"volume": "58",
+		"issue": "5",
+		"URL": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4663056",
+		"author": [
+			{
+				"family": "Hopper",
+				"given": "N."
+			},
+			{
+				"family": "Von Ahn",
+				"given": "L."
+			},
+			{
+				"family": "Langford",
+				"given": "J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2408,
+		"type": "book",
+		"title": "Ad targeting based on ISP tracking now in doubt",
+		"publisher": "Associated Press",
+		"author": [
+			{
+				"family": "Jesdanun",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		}
+	},
+	{
+		"id": 2369,
+		"type": "paper-conference",
+		"title": "Cat and mouse: content delivery tradeoffs in web access",
+		"container-title": "Proceedings of the International World Wide Web Conference, Edinburgh, Scotland",
+		"collection-title": "WWW",
+		"event": "WWW",
+		"URL": "http://www2006.org/programme/files/pdf/2018.pdf",
+		"shortTitle": "Cat and mouse",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "B."
+			},
+			{
+				"family": "Wills",
+				"given": "C. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2398,
+		"type": "paper-conference",
+		"title": "Blueprint: Robust prevention of cross-site scripting attacks for existing browsers",
+		"container-title": "Security and Privacy, 2009 30th IEEE Symposium on",
+		"collection-title": "S&P",
+		"page": "331–346",
+		"event": "S&P",
+		"URL": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5207654",
+		"shortTitle": "Blueprint",
+		"author": [
+			{
+				"family": "Louw",
+				"given": "M. T."
+			},
+			{
+				"family": "Venkatakrishnan",
+				"given": "V. N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2396,
+		"type": "webpage",
+		"title": "Microsoft WebSandbox Technology Preview",
+		"URL": "http://websandbox.livelabs.com/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2394,
+		"type": "webpage",
+		"title": "google-caja - Compiler for making third-party HTML, CSS and JavaScript safe for embedding - Google Project Hosting",
+		"URL": "http://code.google.com/p/google-caja/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2388,
+		"type": "webpage",
+		"title": "Document Object Model Prototypes, Part 1",
+		"URL": "http://msdn.microsoft.com/en-us/library/dd282900%28VS.85%29.aspx",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2373,
+		"type": "paper-conference",
+		"title": "Protecting browser state from web privacy attacks",
+		"container-title": "Proceedings of the 15th international conference on World Wide Web",
+		"collection-title": "WWW",
+		"page": "737–744",
+		"event": "WWW",
+		"URL": "http://dl.acm.org/citation.cfm?id=1135884",
+		"author": [
+			{
+				"family": "Jackson",
+				"given": "C."
+			},
+			{
+				"family": "Bortz",
+				"given": "A."
+			},
+			{
+				"family": "Boneh",
+				"given": "D."
+			},
+			{
+				"family": "Mitchell",
+				"given": "J. C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2367,
+		"type": "paper-conference",
+		"title": "Subspace: secure cross-domain communication for web mashups",
+		"container-title": "Proceedings of the 16th international conference on World Wide Web",
+		"collection-title": "WWW",
+		"page": "611–620",
+		"event": "WWW",
+		"URL": "http://dl.acm.org/citation.cfm?id=1242572.1242655",
+		"shortTitle": "Subspace",
+		"author": [
+			{
+				"family": "Jackson",
+				"given": "C."
+			},
+			{
+				"family": "Wang",
+				"given": "H. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2007
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2349,
+		"type": "article-journal",
+		"title": "Securing frame communication in browsers",
+		"container-title": "Communications of the ACM",
+		"page": "83–91",
+		"volume": "52",
+		"issue": "6",
+		"URL": "http://dl.acm.org/citation.cfm?id=1516046.1516066",
+		"author": [
+			{
+				"family": "Barth",
+				"given": "A."
+			},
+			{
+				"family": "Jackson",
+				"given": "C."
+			},
+			{
+				"family": "Mitchell",
+				"given": "J. C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": 2337,
+		"type": "webpage",
+		"title": "Facebook Dating Ad Hooks Up Married Man ... With His Wife [Updated]",
+		"URL": "http://mashable.com/2009/07/17/facebook-dating-ads-2/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": 2038,
+		"type": "webpage",
+		"title": "Facebook sez, \"Don't mind us, we're just whoring out your photos\"",
+		"URL": "http://downloadsquad.switched.com/2009/07/16/facebook-sez-dont-mind-us-were-just-whoring-out-your-photos",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": 2027,
+		"type": "webpage",
+		"title": "Advertising - On the Web, Ads Can Be a Security Hole - NYTimes.com",
+		"URL": "http://www.nytimes.com/2009/09/15/technology/internet/15adco.html?_r=1",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": 2387,
+		"type": "paper-conference",
+		"title": "Anonymity, unobservability, and pseudonymity—a proposal for terminology",
+		"container-title": "Designing Privacy Enhancing Technologies: International Workshop on Design Issues in Anonymity and Unobservability",
+		"page": "1–9",
+		"event": "International Workshop on Design Issues in Anonymity and Unobservability",
+		"URL": "http://www.springerlink.com/index/XKEDQ9PFTWH8J752.pdf",
+		"author": [
+			{
+				"family": "Pfitzmann",
+				"given": "A."
+			},
+			{
+				"family": "Köhntopp",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": 2378,
+		"type": "paper-conference",
+		"title": "Clonecloud: Elastic execution between mobile device and cloud",
+		"container-title": "International Conference on Computer Systems",
+		"collection-title": "ICCS",
+		"page": "301–314",
+		"event": "ICCS",
+		"URL": "http://dl.acm.org/citation.cfm?id=1966473",
+		"shortTitle": "Clonecloud",
+		"author": [
+			{
+				"family": "Chun",
+				"given": "B. G."
+			},
+			{
+				"family": "Ihm",
+				"given": "S."
+			},
+			{
+				"family": "Maniatis",
+				"given": "P."
+			},
+			{
+				"family": "Naik",
+				"given": "M."
+			},
+			{
+				"family": "Patti",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 2372,
+		"type": "paper-conference",
+		"title": "For sale: your data: by: you",
+		"container-title": "Proceedings of the 10th ACM Workshop on Hot Topics in Networks",
+		"collection-title": "HOTNETS",
+		"page": "13",
+		"event": "HOTNETS",
+		"URL": "http://dl.acm.org/citation.cfm?id=2070575",
+		"shortTitle": "For sale",
+		"author": [
+			{
+				"family": "Riederer",
+				"given": "C."
+			},
+			{
+				"family": "Erramilli",
+				"given": "V."
+			},
+			{
+				"family": "Chaintreau",
+				"given": "A."
+			},
+			{
+				"family": "Krishnamurthy",
+				"given": "B."
+			},
+			{
+				"family": "Rodriguez",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 2374,
+		"type": "paper-conference",
+		"title": "REPRIV: Re-Imagining Content Personalization and In-Browser Privacy",
+		"container-title": "Security and Privacy (SP), 2011 IEEE Symposium on",
+		"collection-title": "S&P",
+		"page": "131–146",
+		"event": "S&P",
+		"URL": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5958026",
+		"shortTitle": "REPRIV",
+		"author": [
+			{
+				"family": "Fredrikson",
+				"given": "M."
+			},
+			{
+				"family": "Livshits",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 2370,
+		"type": "paper-conference",
+		"title": "RePriv: Re-envisioning in-browser privacy",
+		"container-title": "IEEE Symposium on Security and Privacy",
+		"collection-title": "S&P",
+		"event": "S&P",
+		"URL": "http://research.microsoft.com/en-us/um/people/livshits/papers%5Ctr%5Crepriv_tr.pdf",
+		"shortTitle": "RePriv",
+		"author": [
+			{
+				"family": "Fredrikson",
+				"given": "M."
+			},
+			{
+				"family": "Livshits",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 2368,
+		"type": "paper-conference",
+		"title": "Adjail: Practical enforcement of confidentiality and integrity policies on web advertisements",
+		"container-title": "19th USENIX Security Symposium",
+		"collection-title": "Security",
+		"event": "Security",
+		"URL": "http://static.usenix.org/event/sec10/tech/full_papers/TerLouw.pdf",
+		"shortTitle": "Adjail",
+		"author": [
+			{
+				"family": "Ter Louw",
+				"given": "M."
+			},
+			{
+				"family": "Ganesh",
+				"given": "K. T."
+			},
+			{
+				"family": "Venkatakrishnan",
+				"given": "V. N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 2365,
+		"type": "paper-conference",
+		"title": "Privad: Practical privacy in online advertising",
+		"container-title": "Proceedings of the 8th Symposium on Networked Systems Design and Implementation (NSDI), Boston, MA",
+		"collection-title": "NSDI",
+		"event": "NSDI",
+		"URL": "http://static.usenix.org/event/nsdi11/tech/full_papers/Guha.pdf",
+		"shortTitle": "Privad",
+		"author": [
+			{
+				"family": "Guha",
+				"given": "S."
+			},
+			{
+				"family": "Cheng",
+				"given": "B."
+			},
+			{
+				"family": "Francis",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": 2322,
+		"type": "webpage",
+		"title": "OAuth Core 1.0",
+		"URL": "http://oauth.net/core/1.0/#auth_header",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": 2321,
+		"type": "paper-conference",
+		"title": "Privacy-preserving classification of customer data without loss of accuracy",
+		"container-title": "SIAM International Conference on Data Mining (SDM), Newport Beach",
+		"collection-title": "SDM",
+		"URL": "http://www.siam.org/proceedings/datamining/2005/dm05_09yangz.PDF",
+		"author": [
+			{
+				"family": "Zhong",
+				"given": "Z. Y. S."
+			},
+			{
+				"family": "Wright",
+				"given": "R. N."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2005
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": 2319,
+		"type": "webpage",
+		"title": "4.12 Links — HTML Standard",
+		"URL": "http://www.whatwg.org/specs/web-apps/current-work/multipage/links.html#link-type-noreferrer",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": 2309,
+		"type": "webpage",
+		"title": "Meta referrer - WHATWG Wiki",
+		"URL": "http://wiki.whatwg.org/wiki/Meta_referrer",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": 2301,
+		"type": "webpage",
+		"title": "Privacy/Features/Shortened HTTP Referer header - MozillaWiki",
+		"URL": "https://wiki.mozilla.org/Privacy/Features/Shortened_HTTP_Referer_header",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": 2285,
+		"type": "webpage",
+		"title": "Beef Taco (Targeted Advertising Cookie Opt-Out) :: Add-ons for Firefox",
+		"URL": "https://addons.mozilla.org/en-us/firefox/addon/beef-taco-targeted-advertising/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2311,
+		"type": "webpage",
+		"title": "Google Agonizes on Privacy as Advertising World Vaults Ahead - WSJ.com",
+		"URL": "http://online.wsj.com/article/SB10001424052748703309704575413553851854026.html",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2308,
+		"type": "article-journal",
+		"title": "k-anonymity: A model for protecting privacy",
+		"container-title": "International Journal of Uncertainty Fuzziness and Knowledge Based Systems",
+		"page": "557–570",
+		"volume": "10",
+		"issue": "5",
+		"URL": "http://arbor.ee.ntu.edu.tw/archive/ppdm/Anonymity/SweeneyKA02.pdf",
+		"shortTitle": "k-anonymity",
+		"author": [
+			{
+				"family": "Sweeney",
+				"given": "L."
+			},
+			{
+				"family": "others",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2002
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2305,
+		"type": "paper-conference",
+		"title": "Lockr: better privacy for social networks",
+		"container-title": "Proceedings of the 5th international conference on Emerging networking experiments and technologies",
+		"page": "169–180",
+		"URL": "http://dl.acm.org/citation.cfm?id=1658959",
+		"shortTitle": "Lockr",
+		"author": [
+			{
+				"family": "Tootoonchian",
+				"given": "A."
+			},
+			{
+				"family": "Saroiu",
+				"given": "S."
+			},
+			{
+				"family": "Ganjali",
+				"given": "Y."
+			},
+			{
+				"family": "Wolman",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2303,
+		"type": "paper-conference",
+		"title": "Privacy, cost, and availability tradeoffs in decentralized OSNs",
+		"container-title": "Proceedings of the 2nd ACM workshop on Online social networks",
+		"page": "13–18",
+		"URL": "http://dl.acm.org/citation.cfm?id=1592669",
+		"author": [
+			{
+				"family": "Shakimov",
+				"given": "A."
+			},
+			{
+				"family": "Varshavsky",
+				"given": "A."
+			},
+			{
+				"family": "Cox",
+				"given": "L. P."
+			},
+			{
+				"family": "Cáceres",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2300,
+		"type": "paper-conference",
+		"title": "Differentially private recommender systems: building privacy into the net",
+		"container-title": "Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining",
+		"collection-title": "SIGKDD",
+		"page": "627–636",
+		"URL": "http://dl.acm.org/citation.cfm?id=1557090",
+		"shortTitle": "Differentially private recommender systems",
+		"author": [
+			{
+				"family": "McSherry",
+				"given": "F."
+			},
+			{
+				"family": "Mironov",
+				"given": "I."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2297,
+		"type": "paper-conference",
+		"title": "Differentially-private network trace analysis",
+		"container-title": "ACM SIGCOMM Computer Communication Review",
+		"collection-title": "SIGCOMM",
+		"page": "123–134",
+		"volume": "40",
+		"URL": "http://dl.acm.org/citation.cfm?id=1851199",
+		"author": [
+			{
+				"family": "McSherry",
+				"given": "F."
+			},
+			{
+				"family": "Mahajan",
+				"given": "R."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2295,
+		"type": "article-journal",
+		"title": "PseudoID: Enhancing privacy in federated login",
+		"container-title": "Hot Topics in Privacy Enhancing Technologies",
+		"URL": "http://petsymposium.org/2010/papers/hotpets10-Dey.pdf",
+		"shortTitle": "PseudoID",
+		"author": [
+			{
+				"family": "Dey",
+				"given": "A."
+			},
+			{
+				"family": "Weis",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": 2294,
+		"type": "article",
+		"title": "WPF_Cloud_Privacy_Report.pdf",
+		"URL": "http://www.worldprivacyforum.org/pdf/WPF_Cloud_Privacy_Report.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2290,
+		"type": "webpage",
+		"title": "World Privacy Forum | Home",
+		"URL": "http://www.worldprivacyforum.org/index.html",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2287,
+		"type": "webpage",
+		"title": "Balachander Krishnamurthy",
+		"URL": "http://www2.research.att.com/~bala/papers/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2284,
+		"type": "article-journal",
+		"title": "I know what you will do next summer",
+		"container-title": "Computer Communication Review",
+		"page": "65–70",
+		"volume": "40",
+		"issue": "5",
+		"URL": "http://dl.acm.org/citation.cfm?id=1880164",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "B."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2281,
+		"type": "webpage",
+		"title": "Mozilla Leads the Way on Do Not Track | Electronic Frontier Foundation",
+		"URL": "https://www.eff.org/deeplinks/2011/01/mozilla-leads-the-way-on-do-not-track",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2279,
+		"type": "webpage",
+		"title": "Safari Trackers",
+		"container-title": "Web Policy",
+		"abstract": "Apple’s Safari web browser is configured to block third-party cookies by default. We identified four advertising companies that unexpectedly place trackable cookies in Safari. Google and Vibr...",
+		"URL": "http://webpolicy.org/2012/02/17/safari-trackers/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2277,
+		"type": "webpage",
+		"title": "Tracking the Trackers: Early Results",
+		"URL": "http://cyberlaw.stanford.edu/node/6694",
+		"shortTitle": "Tracking the Trackers",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2275,
+		"type": "paper-conference",
+		"title": "Host Fingerprinting and Tracking on the Web: Privacy and Security Implications",
+		"URL": "http://www.rsasecurity.ch/rsalabs/staff/bios/tfyen/publications/NDSS12-HostTracking.pdf",
+		"shortTitle": "Host Fingerprinting and Tracking on the Web",
+		"author": [
+			{
+				"family": "Yen",
+				"given": "T. F."
+			},
+			{
+				"family": "Xie",
+				"given": "Y."
+			},
+			{
+				"family": "Yu",
+				"given": "F."
+			},
+			{
+				"family": "Yu",
+				"given": "R. P."
+			},
+			{
+				"family": "Abadi",
+				"given": "M."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2012
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2273,
+		"type": "paper-conference",
+		"title": "Tracking website data-collection and privacy practices with the iWatch web crawler",
+		"container-title": "Proceedings of the 3rd symposium on Usable privacy and security",
+		"page": "29–40",
+		"event": "symposium on Usable privacy and security",
+		"URL": "http://dl.acm.org/citation.cfm?id=1280686",
+		"author": [
+			{
+				"family": "Jensen",
+				"given": "C."
+			},
+			{
+				"family": "Sarkar",
+				"given": "C."
+			},
+			{
+				"family": "Jensen",
+				"given": "C."
+			},
+			{
+				"family": "Potts",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2007
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2269,
+		"type": "paper-conference",
+		"title": "An empirical study of privacy-violating information flows in javascript web applications",
+		"container-title": "Proceedings of the 17th ACM conference on Computer and communications security",
+		"page": "270–283",
+		"event": "ASIACCS",
+		"URL": "http://dl.acm.org/citation.cfm?id=1866339",
+		"author": [
+			{
+				"family": "Jang",
+				"given": "D."
+			},
+			{
+				"family": "Jhala",
+				"given": "R."
+			},
+			{
+				"family": "Lerner",
+				"given": "S."
+			},
+			{
+				"family": "Shacham",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					26
+				]
+			]
+		}
+	},
+	{
+		"id": 2264,
+		"type": "paper-conference",
+		"title": "An analysis of private browsing modes in modern browsers",
+		"container-title": "Proceedings of the 19th USENIX conference on Security",
+		"collection-title": "Security",
+		"page": "6–6",
+		"URL": "http://cdn.ly.tl/publications/private_browsing_mode-slides-usenix-security.pdf",
+		"author": [
+			{
+				"family": "Aggarwal",
+				"given": "G."
+			},
+			{
+				"family": "Bursztein",
+				"given": "E."
+			},
+			{
+				"family": "Jackson",
+				"given": "C."
+			},
+			{
+				"family": "Boneh",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 2261,
+		"type": "article-journal",
+		"title": "Privacy regulation and online advertising",
+		"URL": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1600259",
+		"author": [
+			{
+				"family": "Goldfarb",
+				"given": "A."
+			},
+			{
+				"family": "Tucker",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 2258,
+		"type": "paper-conference",
+		"title": "Robust De-anonymization of Large Sparse Datasets",
+		"container-title": "IEEE Symposium on Security and Privacy, 2008. SP 2008",
+		"collection-title": "S&P",
+		"page": "111 -125",
+		"event": "IEEE Symposium on Security and Privacy, 2008. SP 2008",
+		"abstract": "We present a new class of statistical de- anonymization attacks against high-dimensional micro-data, such as individual preferences, recommendations, transaction records and so on. Our techniques are robust to perturbation in the data and tolerate some mistakes in the adversary's background knowledge. We apply our de-anonymization methodology to the Netflix Prize dataset, which contains anonymous movie ratings of 500,000 subscribers of Netflix, the world's largest online movie rental service. We demonstrate that an adversary who knows only a little bit about an individual subscriber can easily identify this subscriber's record in the dataset. Using the Internet Movie Database as the source of background knowledge, we successfully identified the Netflix records of known users, uncovering their apparent political preferences and other potentially sensitive information.",
+		"DOI": "10.1109/SP.2008.33",
+		"author": [
+			{
+				"family": "Narayanan",
+				"given": "A."
+			},
+			{
+				"family": "Shmatikov",
+				"given": "V."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": 2250,
+		"type": "paper-conference",
+		"title": "Privacy diffusion on the web: a longitudinal perspective",
+		"container-title": "Proceedings of the 18th international conference on World wide web",
+		"collection-title": "WWW",
+		"publisher": "ACM",
+		"publisher-place": "New York, NY, USA",
+		"page": "541–550",
+		"event-place": "New York, NY, USA",
+		"abstract": "For the last few years we have been studying the diffusion of private information for users as they visit various Web sites triggering data gathering aggregation by third parties. This paper reports on our longitudinal study consisting of multiple snapshots of our examination of such diffusion over four years. We examine the various technical ways by which third-party aggregators acquire data and the depth of user-related information acquired. We study techniques for protecting privacy diffusion as well as limitations of such techniques. We introduce the concept of secondary privacy damage. Our results show increasing aggregation of user-related data by a steadily decreasing number of entities. A handful of companies are able to track users' movement across almost all of the popular Web sites. Virtually all the protection techniques have significant limitations highlighting the seriousness of the problem and the need for alternate solutions.",
+		"URL": "http://doi.acm.org/10.1145/1526709.1526782",
+		"DOI": "10.1145/1526709.1526782",
+		"ISBN": "978-1-60558-487-4",
+		"shortTitle": "Privacy diffusion on the web",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "Balachander"
+			},
+			{
+				"family": "Wills",
+				"given": "Craig"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					25
+				]
+			]
+		}
+	},
+	{
+		"id": 2244,
+		"type": "webpage",
+		"title": "Tracking Not Required: Frequency Capping « Web Policy",
+		"URL": "http://webpolicy.org/2012/04/23/tracking-not-required-frequency-capping/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": 2242,
+		"type": "webpage",
+		"title": "AdChoices? Compliance with Online Behavioral Advertising Notice and Choice Requirements (Revised October 7, 2011)",
+		"URL": "http://www.cylab.cmu.edu/research/techreports/2011/tr_cylab11005.html",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": 2238,
+		"type": "webpage",
+		"title": "Do Not Track Is No Threat to Ad-Supported Businesses",
+		"URL": "http://cyberlaw.stanford.edu/node/6592",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": 2236,
+		"type": "webpage",
+		"title": "The Do Not Track Cookbook",
+		"URL": "http://donottrack.us/cookbook/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": 2234,
+		"type": "webpage",
+		"title": "Home · gitlabhq/gitlabhq Wiki",
+		"URL": "https://github.com/gitlabhq/gitlabhq/wiki",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": 2232,
+		"type": "webpage",
+		"title": "Do Not Track",
+		"URL": "http://tools.ietf.org/id/draft-mayer-do-not-track-00.txt",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": 2223,
+		"type": "webpage",
+		"title": "How Google Docs Leaks Your Identity « 33 Bits of Entropy",
+		"URL": "http://33bits.org/2010/02/22/google-docs-leaks-identity/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": 2063,
+		"type": "webpage",
+		"title": "Clickjacking Attacks Unresolved",
+		"URL": "https://docs.google.com/document/pub?id=1hVcxPeCidZrM5acFH9ZoTYzg1D0VjkG3BDW_oUdn5qc",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": 2219,
+		"type": "webpage",
+		"title": "Content Security Policy 1.0",
+		"URL": "zotero://attachment/2184/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2216,
+		"type": "webpage",
+		"title": "Part2 - browsersec - Browser Security Handbook, part 2 - Browser Security Handbook - Google Project Hosting",
+		"URL": "http://code.google.com/p/browsersec/wiki/Part2#Third-party_cookie_rules",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2202,
+		"type": "article",
+		"title": "privacy-final.pdf",
+		"URL": "http://www.whitehouse.gov/sites/default/files/privacy-final.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2201,
+		"type": "article",
+		"title": "Felten.pdf"
+	},
+	{
+		"id": 2200,
+		"type": "article",
+		"title": "acquisti-faces-BLACKHAT-draft.pdf",
+		"URL": "http://www.heinz.cmu.edu/~acquisti/face-recognition-study-FAQ/acquisti-faces-BLACKHAT-draft.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2192,
+		"type": "webpage",
+		"title": "Public Suffix List",
+		"URL": "http://publicsuffix.org/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2189,
+		"type": "paper-conference",
+		"title": "Large Online Social Footprints–An Emerging Threat",
+		"container-title": "Computational Science and Engineering, 2009. CSE'09. International Conference on",
+		"collection-title": "CSE",
+		"page": "271–276",
+		"volume": "3",
+		"URL": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5283493",
+		"author": [
+			{
+				"family": "Irani",
+				"given": "D."
+			},
+			{
+				"family": "Webb",
+				"given": "S."
+			},
+			{
+				"family": "Li",
+				"given": "K."
+			},
+			{
+				"family": "Pu",
+				"given": "C."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2187,
+		"type": "webpage",
+		"title": "There is no such thing as anonymous online tracking | Center for Internet and Society",
+		"URL": "http://cyberlaw.stanford.edu/node/6701",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2185,
+		"type": "paper-conference",
+		"title": "Privacy leakage vs. protection measures: the growing disconnect",
+		"container-title": "Web 2.0 Security and Privacy Workshop",
+		"URL": "http://www.cs.wpi.edu/~cew/papers/w2sp11.pdf",
+		"shortTitle": "Privacy leakage vs. protection measures",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "B."
+			},
+			{
+				"family": "Naryshkin",
+				"given": "K."
+			},
+			{
+				"family": "Wills",
+				"given": "C. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2183,
+		"type": "webpage",
+		"title": "Content Security Policy 1.0",
+		"URL": "http://www.w3.org/TR/CSP/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2181,
+		"type": "article-journal",
+		"title": "Detecting and Defending Against Third-Party Tracking on the Web",
+		"URL": "http://www.franziroesner.com/pdf/webtracking-NSDI2012.pdf",
+		"author": [
+			{
+				"family": "Roesner",
+				"given": "F."
+			},
+			{
+				"family": "Kohno",
+				"given": "T."
+			},
+			{
+				"family": "Wetherall",
+				"given": "D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2012
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2178,
+		"type": "webpage",
+		"title": "Do Not Track - Universal Web Tracking Opt Out",
+		"URL": "http://donottrack.us/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2055,
+		"type": "paper-conference",
+		"title": "Generating a privacy footprint on the internet",
+		"container-title": "Proceedings of the 6th ACM SIGCOMM conference on Internet measurement",
+		"collection-title": "IMC",
+		"page": "65–70",
+		"URL": "http://dl.acm.org/citation.cfm?id=1177088",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "B."
+			},
+			{
+				"family": "Wills",
+				"given": "C. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2006
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2021,
+		"type": "webpage",
+		"title": "Tracking Preference Expression (DNT)",
+		"URL": "http://www.w3.org/TR/2011/WD-tracking-dnt-20111114/",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 1970,
+		"type": "webpage",
+		"title": "Same Origin Policy - Web Security",
+		"URL": "http://www.w3.org/Security/wiki/Same_Origin_Policy",
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": 2173,
+		"type": "article",
+		"title": "ToRead.txt"
+	},
+	{
+		"id": 2170,
+		"type": "report",
+		"title": "A Study of Third-Party Tracking by Mobile Apps in the Wild",
+		"publisher": "University of Washington",
+		"genre": "Technical Report",
+		"abstract": "We report the first field study of real-world tracking via mobile\napps in which we measured how 20 participants were\ntracked over three weeks as they exercised their Android\nsmartphone apps. We instrumented the phones with dynamic\ntaint tracking to record communications that exposed identifying\ninformation, and inspected web cookie databases. We\nfind that 36% of the sites (655 out of 1824) that our study\napps are programmed to contact are tracking users. Of these\nsites, 37% track users with persistent identifiers (mostly AndroidId\nand IMEI) derived from an identifying string unique\nto the user’s device. This is privacy risk as these IDs are\nlong-lived and enable cross-application and cross-site profiling\nof the user; they are often sent without encryption and\nwith geo-location too. Advertising and analytics services are\nwidely used, being embedded in 57% of apps and tracking\nevery single participant in our study. Most of these sites are\nheavy trackers: 25% of their tracking is done with persistent\nidentifiers and geo-location is gathered by half of the top\n10 advertisers. To one participant’s surprise, over 600 geocoordinates\nwere exposed to a third-party advertising site\nduring the study. Our participants expected to be tracked\nbut wanted greater transparency and the ability to opt out\nin cases when there was no perceived value. To let them\nopt out, we prototype a privacy control that selectively shadows\naccess to identifiers and other sensitive personal data by\nthird-party components.",
+		"author": [
+			{
+				"family": "Seungyeop Han",
+				"given": ""
+			},
+			{
+				"family": "Jaeyeon Jung",
+				"given": ""
+			},
+			{
+				"family": "David Wetherall",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2012,
+					3,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": 2168,
+		"type": "paper-conference",
+		"title": "Third-Party Web Tracking: Policy and Technology",
+		"container-title": "Proceedings of the IEEE Computer Society 2012 Security and Privacy Symposium",
+		"publisher-place": "San Francisco, California, United States",
+		"event": "IEEE Symposium on Security and Privacy",
+		"event-place": "San Francisco, California, United States",
+		"abstract": "In the early days of the web, content was designed\nand hosted by a single person, group, or organization. No\nlonger. Webpages are increasingly composed of content from\nmyriad unrelated “third-party” websites in the business of\nadvertising, analytics, social networking, and more. Thirdparty\nservices have tremendous value: they support free content\nand facilitate web innovation. But third-party services come\nat a privacy cost: researchers, civil society organizations, and\npolicymakers have increasingly called attention to how third\nparties can track a user’s browsing activities across websites.\nThis paper surveys the current policy debate surrounding\nthird-party web tracking and explains the relevant technology.\nIt also presents the FourthParty web measurement platform and\nstudies we have conducted with it. Our aim is to inform researchers\nwith essential background and tools for contributing\nto public understanding and policy debates about web tracking.",
+		"DOI": "10.1109/SP.2012.47",
+		"author": [
+			{
+				"family": "Jonathan R. Mayer",
+				"given": ""
+			},
+			{
+				"family": "John C. Mitchell",
+				"given": ""
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2012,
+					5,
+					20
+				]
+			]
+		}
+	},
+	{
+		"id": 2156,
+		"type": "article-journal",
+		"title": "Third-Party Tracking Cookies and Data Privacy",
+		"container-title": "SSRN eLibrary",
+		"abstract": "Public discourse these days is replete with concerns about data security and information privacy. One of the major themes of these conversations is the concept of waiver and what rights to privacy are actually waived when engaging with parties over the internet. A significant mode of this theme involves the use of “cookies” which are surreptitiously installed on users’ computer hard drives during common internet transactions. While cookie-use plays a substantial role in making web-based transactions more efficient, even for the user, the concern about cookies focuses on the fact that third parties to the transaction are often able to use the information collected from cookies and aggregate it. Aggregated data can then be used to construct a highly informative profile of the individual user or consumer which would be highly difficult, if not impossible, to get from any other source. In spite of the fact that most internet users are aware of the technological times in which we live, many users would not believe that such data collection is reasonable given the context in which the collection takes place. Online advertisers increasingly use consumers' collected personal data to design more individually relevant purchasing experiences. Often, this takes place through third-party tracking “cookies.” Website visitors, usually without their knowledge, provide third-parties with invasive, identifiable personal information like consumer and web-browsing history. In the name of a providing a better buying experience, these advertisers compile digital profiles of users and exploit this information to their advantage. However, what constitutes a reasonable expectation of privacy in e-commerce should be redefined, starting with establishment of default rules that favor consumers' data privacy. This paper argues that the presumption going forward regarding third-party tracking should be that, in addition to default “opt-out” rules, a combination of government and industry forces needs to come together in order to achieve comprehensive regulation that meets the needs of individual data privacy and successful commerce.",
+		"URL": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2058326",
+		"author": [
+			{
+				"family": "Mitchell",
+				"given": "Ian D."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012",
+					4,
+					25
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2155,
+		"type": "patent",
+		"title": "METHOD FOR CROSS-DOMAIN TRACKING OF WEB SITE TRAFFIC",
+		"abstract": "Web traffic reporting methods that rely upon third-party cookies suffer in accuracy when those tracking cookies are frequently refused by web users or deleted once they have been accepted. The invention described herein circumvents this problem by employing first-party cookies instead. This is accomplished by a client-side script that maintains the first-party cookie (as placed by the web site in question) and sends a site-maintained visitor ID to a tracking service for analysis. The effect is to improve the accuracy of traffic statistics that rely on that cookie.",
+		"URL": "http://www.freepatentsonline.com/y2012/0124206.html",
+		"number": "United States Patent Application 20120124206\t\t\t\t \t\t\t \t\t\t\t\t\t\tKind Code: \t\t\t\t \t\t\t\t\tA1",
+		"issued": {
+			"date-parts": [
+				[
+					2012,
+					5,
+					17
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2061,
+		"type": "patent",
+		"title": "Method of gathering usage information and transmitting to a primary server and a third party server by a client program",
+		"number": "6,405,214",
+		"issued": {
+			"date-parts": [
+				[
+					"2002",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": 2062,
+		"type": "article-journal",
+		"title": "NebuAd and partner ISPs: Wiretapping, forgery and browser hijacking",
+		"container-title": "Washington DC: FreePress",
+		"URL": "http://www.freepress.net/files/Wiretapping_Forgery_Browser_Hijacking_Report_Final.pdf",
+		"shortTitle": "NebuAd and partner ISPs",
+		"author": [
+			{
+				"family": "Topolski",
+				"given": "R. M."
+			},
+			{
+				"family": "Press",
+				"given": "F."
+			},
+			{
+				"family": "Knowledge",
+				"given": "P."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2008
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2066,
+		"type": "article-journal",
+		"title": "The OAKLEY key determination protocol",
+		"URL": "http://svn.tools.ietf.org/html/rfc2412",
+		"author": [
+			{
+				"family": "Orman",
+				"given": "H."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					1998
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2058,
+		"type": "paper-conference",
+		"title": "Cookies and web browser design: Toward realizing informed consent online",
+		"container-title": "Proceedings of the SIGCHI conference on Human factors in computing systems",
+		"collection-title": "SIGCHI",
+		"page": "46–52",
+		"URL": "http://dl.acm.org/citation.cfm?id=365034",
+		"shortTitle": "Cookies and web browser design",
+		"author": [
+			{
+				"family": "Millett",
+				"given": "L. I."
+			},
+			{
+				"family": "Friedman",
+				"given": "B."
+			},
+			{
+				"family": "Felten",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2001
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2031,
+		"type": "paper-conference",
+		"title": "On the leakage of personally identifiable information via online social networks",
+		"container-title": "Proceedings of the 2nd ACM workshop on Online social networks",
+		"page": "7–12",
+		"URL": "http://dl.acm.org/citation.cfm?id=1592668",
+		"author": [
+			{
+				"family": "Krishnamurthy",
+				"given": "B."
+			},
+			{
+				"family": "Wills",
+				"given": "C. E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2064,
+		"type": "article-journal",
+		"title": "Privacy in E-Commerce: Development of Reporting Standards, Disclosure, and Assurance Services in an Unregulated Market",
+		"container-title": "Journal of Accounting Research",
+		"page": "285–309",
+		"volume": "41",
+		"issue": "2",
+		"URL": "http://onlinelibrary.wiley.com/doi/10.1111/1475-679X.00104/abstract",
+		"shortTitle": "Privacy in E-Commerce",
+		"author": [
+			{
+				"family": "Jamal",
+				"given": "K."
+			},
+			{
+				"family": "Maier",
+				"given": "M."
+			},
+			{
+				"family": "Sunder",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2003
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2056,
+		"type": "paper-conference",
+		"title": "Informed consent in the Mozilla browser: Implementing value-sensitive design",
+		"container-title": "System Sciences, 2002. HICSS. Proceedings of the 35th Annual Hawaii International Conference on",
+		"collection-title": "HICSS",
+		"page": "10–pp",
+		"URL": "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=994366",
+		"shortTitle": "Informed consent in the Mozilla browser",
+		"author": [
+			{
+				"family": "Friedman",
+				"given": "B."
+			},
+			{
+				"family": "Howe",
+				"given": "D. C."
+			},
+			{
+				"family": "Felten",
+				"given": "E."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2002
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2026,
+		"type": "article-journal",
+		"title": "Internet privacy",
+		"container-title": "Communications of the ACM",
+		"page": "28–38",
+		"volume": "42",
+		"issue": "2",
+		"URL": "http://dl.acm.org/citation.cfm?id=293440",
+		"author": [
+			{
+				"family": "Cranor",
+				"given": "L. F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					1999
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 1973,
+		"type": "article-journal",
+		"title": "Flash cookies and privacy",
+		"container-title": "SSRN eLibrary",
+		"URL": "http://www.aaai.org/ocs/index.php/SSS/SSS10/paper/download/1070/1505",
+		"author": [
+			{
+				"family": "Soltani",
+				"given": "A."
+			},
+			{
+				"family": "Canty",
+				"given": "S."
+			},
+			{
+				"family": "Mayo",
+				"given": "Q."
+			},
+			{
+				"family": "Thomas",
+				"given": "L."
+			},
+			{
+				"family": "Hoofnagle",
+				"given": "C. J."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2009
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 1989,
+		"type": "patent",
+		"title": "Method and stored program for accumulating descriptive profile data along with source information for use in targeting third-party advertisements",
+		"number": "7,979,307",
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": 1997,
+		"type": "patent",
+		"title": "System for targeting third party content to users based on social networks",
+		"number": "7,941,535",
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": 1991,
+		"type": "patent",
+		"title": "System and methods for facilitating transactions on, and personalizing web pages of, third party web sites",
+		"number": "7,966,259",
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": 1985,
+		"type": "article-journal",
+		"title": "HTTP State Management Mechanism",
+		"URL": "http://mail.tools.ietf.org/html/rfc6265",
+		"author": [
+			{
+				"family": "Barth",
+				"given": "A."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2011
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					14
+				]
+			]
+		}
+	},
+	{
+		"id": 2018,
+		"type": "paper-conference",
+		"title": "Adnostic: Privacy preserving targeted advertising",
+		"container-title": "17th Network and Distributed System Security Symposium",
+		"collection-title": "NSDI",
+		"URL": "http://www.nyu.edu/pages/projects/nissenbaum/papers/adnostic.pdf",
+		"shortTitle": "Adnostic",
+		"author": [
+			{
+				"family": "Toubiana",
+				"given": "V."
+			},
+			{
+				"family": "Narayanan",
+				"given": "A."
+			},
+			{
+				"family": "Boneh",
+				"given": "D."
+			},
+			{
+				"family": "Nissenbaum",
+				"given": "H."
+			},
+			{
+				"family": "Barocas",
+				"given": "S."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					2010
+				]
+			]
+		},
+		"accessed": {
+			"date-parts": [
+				[
+					2012,
+					7,
+					8
+				]
+			]
+		}
+	}
+]
